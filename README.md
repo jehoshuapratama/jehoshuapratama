@@ -27,4 +27,4 @@ SQL, Python, C, C++, C#, Dart, Java, R, JS, HTML, CSS
 
 <br />
 
-<img align="left" alt="Jehoshua's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jehoshuapratama&show_icons=true&theme=radical" />
+<img align="left" alt="Jehoshua's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jehoshuapratama&show_icons=true&theme=radical&count_private=true" />

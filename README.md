@@ -1,87 +1,176 @@
-## Hi there, I'm Jehoshua 👋
+<div align="center">
 
-### I'm that kind of guy that loves technology very much!
+# Hi, I'm Jehoshua Pratama 👋
 
-<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="40%" align="right" />
+### Forward Deployed Engineer · Full-Stack Developer · AI Enthusiast
 
-#### Database, Software Developer, and AI Enthusiast!
+I build practical software and AI solutions that transform business requirements into scalable internal tools.
 
-- 🔭 Currently working as Fullstack Developer (ASP.NET Core 6, Flutter, MS SQL).
-- 🌱 Experienced with small to large scale database environment.
-- 📃 EDB Certified Professional - Postgres Advanced Server 11.
-- 📃 EDB Certified Associate - Postgres Advanced Server 11.
-- 👯 Very fast learner and love to collaborate with other people for open projects.
+<br>
 
-<table width="100%" >
- <tr>
-    <td width="60%">
-      
-### 🛠️ Skills
-#### Languages
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Java](https://img.shields.io/badge/Java-%23150458.svg?style=flat&logo=java&logoColor=orange)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=blue&color=0B2C4A)&nbsp;
+<img
+  src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif"
+  width="300"
+  alt="Developer animation"
+/>
 
-#### Development
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
-![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+</div>
 
+---
 
-#### Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=green)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)&nbsp;
-![SQL Server](https://img.shields.io/badge/SQLServer-316192?style=flat&logo=sqlserver&logoColor=green)&nbsp;
-![SQlite](https://img.shields.io/badge/-SQlite-05122A?style=flat&logo=sqlite&logoColor=A8B9CC)&nbsp;
-![Oracle](https://img.shields.io/badge/Oracle-316192?style=flat&logo=oracle&logoColor=green)&nbsp;
+## 👨‍💻 About Me
 
+- 🔭 Working as a **Forward Deployed Engineer**, building internal platforms and AI-powered business solutions.
+- 🧩 Developing full-stack applications with **ASP.NET Core, Python, Flutter, JavaScript, and SQL Server**.
+- 🤖 Working with **AI agents, RAG, document analysis, OCR, and workflow automation**.
+- 🐳 Building containerized applications and deployment workflows using **Docker and CI/CD**.
+- 🗄️ Experienced with database development, administration, optimization, and large-scale environments.
+- 🤝 Enjoy collaborating with technical teams, business users, and stakeholders.
+- 🌱 Currently expanding my knowledge in **AI engineering, system architecture, DevOps, and scalable application design**.
 
-#### Tools and Technologies
-![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![NPM](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)&nbsp;
-![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat&logo=vim&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![XCode](https://img.shields.io/badge/-XCode-05122A?style=flat&logo=XCode)&nbsp;
-![Spyder](https://img.shields.io/badge/-Spyder-05122A?style=flat&logo=Spyder)&nbsp;
+---
 
-#### Data Analytics 
-![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white)&nbsp;
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white)&nbsp;<!-- ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)&nbsp; -->
+## 🚀 What I'm Working On
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧰 Internal Tool Platform
+
+- Centralized internal tool portal
+- Tool registration and management
+- Automated deployment workflows
+- Docker-based tool hosting
+- Test and production environments
+
 </td>
-    <td>
-      
-### 📄📜 Stats
+<td width="50%" valign="top">
 
-<p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=jehoshuapratama&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black&count_private=true" />
- </br>
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=jehoshuapratama&count_private=true"/>
- </br>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jehoshuapratama&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent&count_private=true" />
-</p>
+### 🤖 AI Business Solutions
 
- </td>
- </tr>
+- Resume analysis and candidate scoring
+- Organization chart generation
+- Potential customer information research
+- Document processing and OCR
+- Retrieval-Augmented Generation systems
+
+</td>
+</tr>
 </table>
 
-### Connect with me:
+---
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="codeSTACKr | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+## 🛠️ Technology Stack
 
-<br />
+### Backend Development
 
-[instagram]: https://instagram.com/jehoshua.pratama
-[linkedin]: https://www.linkedin.com/in/jehoshuahankypratama/
-[youtube]: https://www.youtube.com/channel/UCOLgkjGh6pwOW9MTF-KYlPA/featured
+![C#](https://img.shields.io/badge/C%23-111827?style=for-the-badge&logo=csharp&logoColor=9B4F96)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-111827?style=for-the-badge&logo=dotnet&logoColor=512BD4)
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB)
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
+![Java](https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![C++](https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=cplusplus&logoColor=00599C)
 
+### Frontend and Mobile
+
+![Flutter](https://img.shields.io/badge/Flutter-111827?style=for-the-badge&logo=flutter&logoColor=02569B)
+![Dart](https://img.shields.io/badge/Dart-111827?style=for-the-badge&logo=dart&logoColor=0175C2)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-111827?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
+![jQuery](https://img.shields.io/badge/jQuery-111827?style=for-the-badge&logo=jquery&logoColor=0769AD)
+
+### AI and Data
+
+![OpenAI](https://img.shields.io/badge/OpenAI-111827?style=for-the-badge&logo=openai&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=150458)
+![NumPy](https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy&logoColor=4DABCF)
+![R](https://img.shields.io/badge/R-111827?style=for-the-badge&logo=r&logoColor=276DC3)
+![LangChain](https://img.shields.io/badge/LangChain-111827?style=for-the-badge&logo=langchain&logoColor=1C3C3C)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-111827?style=for-the-badge&logo=databricks&logoColor=FF3621)
+
+### Databases
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-111827?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![MySQL](https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![SQLite](https://img.shields.io/badge/SQLite-111827?style=for-the-badge&logo=sqlite&logoColor=5FA9D6)
+![Oracle](https://img.shields.io/badge/Oracle-111827?style=for-the-badge&logo=oracle&logoColor=F80000)
+
+### DevOps and Development Tools
+
+![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111827?style=for-the-badge&logo=githubactions&logoColor=2088FF)
+![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-111827?style=for-the-badge&logo=visualstudio&logoColor=5C2D91)
+![VS Code](https://img.shields.io/badge/VS_Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Markdown](https://img.shields.io/badge/Markdown-111827?style=for-the-badge&logo=markdown&logoColor=white)
+
+---
+
+## 🎓 Certifications
+
+<div align="center">
+
+| Certification | Technology |
+|---|---|
+| EDB Certified Professional | Postgres Advanced Server 11 |
+| EDB Certified Associate | Postgres Advanced Server 11 |
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img
+  src="https://streak-stats.demolab.com?user=jehoshuapratama&theme=github-dark-blue&hide_border=true"
+  alt="Jehoshua's GitHub contribution streak"
+/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=jehoshuapratama&theme=github-compact&hide_border=true&area=true"
+  width="100%"
+  alt="Jehoshua's GitHub contribution activity graph"
+/>
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in discussing:
+
+- AI-powered internal tools
+- Full-stack application development
+- Database architecture and optimization
+- Docker and CI/CD implementation
+- Business process automation
+- Open-source collaboration
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jehoshuahankypratama/)
+[![Instagram](https://img.shields.io/badge/Follow_on_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jehoshua.pratama)
+[![YouTube](https://img.shields.io/badge/Visit_My_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCOLgkjGh6pwOW9MTF-KYlPA)
+
+<br>
+
+### Building practical solutions where software, data, and AI meet.
+
+</div>
